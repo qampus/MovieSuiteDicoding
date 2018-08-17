@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movie Suite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan Judul</string>
+    <string name="up_coming">Segera</string>
+    <string name="now_playing">Di Bioskop</string>
+    <string name="setting">Tentang</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="menu">Menu</string>
+    <string name="category_adult">Dewasa</string>
+    <string name="category_parental_guidance">Bimbingan Orang Tua</string>
+    <string name="categoty">Kategori</string>
+    <string name="release_date" >Tanggal Rilis</string>
+    <string name="no_result">Tidak Ada Hasil</string>
+    <string name="searching">Pencarian :</string>
+    <string name="waiting">Tunggu</string>
+    <string name="on_searching">Sedang Mencari</string>
+    <string name="error">Gagal</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="title_detail_movie">Judul</string>
+    <string name="age_rating_movie">Usia</string>
+    <string name="date_movie">Tanggal Rilis</string>
+    <string name="movie_catalog">Movie Suite</string>
+    <string name="home">Beranda</string>
+    <string name="coming_soon">Segera Tayang</string>
+    <string name="lang">Ganti Bahasa</string>
+    <string name="searchhint">Despicable Me, 007</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movie Suite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="search">Search</string>
+
+    <string name="search_hint">Enter the title</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="now_playing">On Cinemas</string>
+    <string name="setting">About</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="menu">Menu</string>
+    <string name="category_adult">Adult</string>
+    <string name="category_parental_guidance">Parental Guidance</string>
+    <string name="categoty">Category</string>
+    <string name="release_date">Release Date</string>
+    <string name="no_result">No Result</string>
+    <string name="searching">Searching</string>
+    <string name="waiting">Waiting</string>
+    <string name="on_searching">Searching</string>
+    <string name="error">Error</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="title_detail_movie">Title</string>
+    <string name="age_rating_movie">Age Rating</string>
+    <string name="date_movie">Date Movie</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="home">Home</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="title_activity_about">About</string>
+    <string name="lang">Change Language</string>
+    <string name="searchhint">Despicable Me, 007</string>
+
+
+</resources>

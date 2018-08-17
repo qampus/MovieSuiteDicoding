@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/setting"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lang"
+        android:orderInCategory="100"
+        android:title="@string/lang"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/searchButton"
+        android:icon="@android:drawable/ic_menu_search"
+        android:queryHint="Cari Film dengan Judul"
+        android:title="Cari"
+        app:showAsAction="always" />
+
+</menu>
